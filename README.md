@@ -1,2 +1,2 @@
 # Proyecto Colaborativo
-## Aquí una supuestra y breve descipción de lo que irá estre proyecto, pero como no sé de qué va solo hay texto por haber.
+## Aquí una supuestra y breve descripción de lo que irá estre proyecto, que será la unión de código html para realizar una página web.
